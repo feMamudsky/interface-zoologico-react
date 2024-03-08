@@ -1,5 +1,5 @@
 import imgNotFound from '../../assets/img-not-found.png'
-import './CardAnimal.css'
+import './CardAnimal.css';
 
 function CardAnimal() {
     return (

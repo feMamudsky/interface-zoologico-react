@@ -9,10 +9,10 @@
     font-family: "Caesar Dressing", system-ui;
 }
 
-/* .ctn-atracao > img {
+.ctn-atracao > img {
     width: 50%;
     height: 50%;
-} */
+}
 
 .ctn-cardanimal > p {
     font-size: 2rem;

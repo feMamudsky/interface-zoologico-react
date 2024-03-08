@@ -1,6 +1,6 @@
-import Navegacao from './Navegacao';
-import CardAnimal from './CardAnimal';
-import './Animal.css';
+import Navegacao from '../../components/Navegacao/Navegacao';
+import CardAnimal from '../../components/CardAnimal/CardAnimla';
+import './Animais.css';
 
 function Animal() {
     return (
