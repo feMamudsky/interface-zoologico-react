@@ -18,10 +18,10 @@ function Navegacao() {
                         <Link style={{color: "#A7A000"}} to="/animais">Os Animais</Link>
                     </li>
                     <li>
-                        <Link style={{color: "#A7A000"}} to="/fotos">Fotos</Link>
+                        <Link style={{color: "#A7A000"}} to="./fotos">Fotos</Link>
                     </li>
                     <li>
-                        <Link style={{color: "#A7A000"}} to="/depoimentos">Depoimentos</Link>
+                        <Link style={{color: "#A7A000"}} to="/depoimento">Depoimentos</Link>
                     </li>
                     <li>
                         <Link style={{color: "#A7A000"}} to="/login">Login</Link>
