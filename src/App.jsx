@@ -3,7 +3,7 @@ import Home from './pages/Home/Home';
 import Animais from './pages/Animais/Animais';
 import { BrowserRouter as Roteador, Routes, Route} from 'react-router-dom';
 import Fotos from './pages/Fotos/Fotos';
-import Depoimento from './pages/Depoimento/Depoimento';
+import Depoimento from './pages/Depoimento/Depoimentos';
 import Login from './pages/Login/Login';
 
 function App() {
