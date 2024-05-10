@@ -1,9 +1,9 @@
 import Navegacao from '../../components/Navegacao/Navegacao';
-import CardAnimal from '../../components/CardAnimal/CardAnimal';
-import './Animais.css'
+import AnimalTable from '../../components/CardAnimal/TabelaAnimal/TabelaAnimal';
+import './Depoimentos.css'
 import { useEffect, useState } from "react";
 
-function Animais() {
+function Depoimentos() {
 
     // useState é um Hook responsável por manipular variáveis no React
     // Criando um array que vai receber do back-end as informações sobre os animais (nome, idade, genero, etc)
@@ -39,9 +39,9 @@ function Animais() {
     return(
         <>
             <Navegacao />
-            <CardAnimal />
+            <AnimalTable />
         </>
     );
 }
 
-export default Animais
+export default Depoimentos
