@@ -1,19 +1,10 @@
-.ctn-cardanimal {
-    width: 25%;
-    height: 50vh;
+/* CardAnimal.css */
 
-    background-color: #A7A000;
-
-    border: 2px solid #555;
-
-    font-family: "Caesar Dressing", system-ui;
-}
-
-.ctn-atracao > img {
-    width: 50%;
-    height: 50%;
-}
-
-.ctn-cardanimal > p {
-    font-size: 2rem;
-}
+.container {
+    /* Estilos para o contêiner que envolve a tabela */
+  }
+  
+  .table-wrapper {
+    width: 50%; /* Defina a largura desejada aqui */
+  }
+  
